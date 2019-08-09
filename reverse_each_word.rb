@@ -1,0 +1,1 @@
+["Hello there, and how are you?"].collect { |word| puts Array.new << word.reverse }
